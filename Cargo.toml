@@ -2,6 +2,10 @@
 name = "plagr"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+authors = ["Dan0xE <dan0xe@proton.me>"]
+description = "Playground Launcher .plagr Converter is a utility crate providing the functionality to convert files to and from the custom .plagr file format. The .plagr format is a base64-encoded text file that allows storing different types of files securely and efficiently. This crate supports secure file encryption and decryption, custom file extension override, and optional cleanup. It's a part of the larger Playground Launcher project aiming to offer a variety of applications and tools for streamlined project management."
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
